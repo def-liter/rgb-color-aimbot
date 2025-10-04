@@ -1,2 +1,1 @@
-# rgb-color-aimbot
-works only on windows
+make soure you have the imports installed
